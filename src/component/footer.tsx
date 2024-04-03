@@ -18,7 +18,7 @@ function Footer(){
                     </div>
                 </div>
                 <div
-                className="text-white text-lg font-semibold mb-4">Contact Us </div>
+                className="text-white text-lg font-semibold mb-4">Contact Us, </div>
             </div>
             <div className="text-center text-xs pt-8">2024 Music School, All right reserved.</div>
         </div>
